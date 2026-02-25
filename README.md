@@ -88,9 +88,19 @@
 
 ## 🤝 Let’s Connect
 
+---
+
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+### 🌱 Thank You for Scrolling This Far
+
+I believe in **learning by building**,  
+**growing through consistency**,  
+and **improving one commit at a time**.
+
+💻 From simple HTML pages  
+🚀 to real-world frontend projects  
+📈 this journey has just started.
 
 </div>
 
@@ -98,8 +108,24 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+GitHub!;Building+Projects+One+Commit+at+a+Time;Learning+•+Building+•+Growing" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diksha3184&theme=react-dark&hide_border=true&area=true" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
+
+---
+
+<div align="center">
+
+🧩 *Still learning. Still building. Still curious.*  
+
+✨ *Let’s create meaningful things together.*
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=footer&text=Thanks%20for%20visiting%20💙&fontSize=22"/>
 
 </div>
