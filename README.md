@@ -59,14 +59,37 @@
 
 ## 📊 GitHub Stats
 
+---
+
+## 📌 My GitHub in Numbers (So Far)
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=diksha3184&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+<!-- Main Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=diksha3184&show_icons=true&hide_title=true&count_private=true&theme=transparent&icon_color=6C63FF&text_color=555&border_color=EAEAEA" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diksha3184&layout=compact&theme=transparent&langs_count=6&hide_border=false&border_color=EAEAEA" width="49%" />
 
 </div>
 
-> 🔁 Replace `YOUR_USERNAME` with your GitHub username
+---
+
+<div align="center">
+
+### ⏳ Consistency over Perfection
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=diksha3184&theme=transparent&hide_border=true&ring=6C63FF&fire=FF8C00&currStreakLabel=6C63FF" width="70%" />
+
+</div>
+
+---
+
+<div align="center">
+
+📈 *Every commit represents learning, debugging, and growth.*  
+🛠️ *Focused on fundamentals today, scalability tomorrow.*
+
+</div>
 
 ---
 
