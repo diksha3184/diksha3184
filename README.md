@@ -57,7 +57,7 @@ Interests:
 
 Goal:
   Become a job-ready developer
-  and contribute to impactful projects 🚀
+  and contribute to impactful projects 
 ```
 
 </td>
@@ -108,7 +108,7 @@ Goal:
 
 <div align="center">
 
-| 🌱 Learning | 💡 Exploring |
+|  Learning | Exploring |
 |---|---|
 | MERN Stack Development | Open Source Projects |
 | Cloud & DevOps Basics | Linux Foundation |
@@ -139,7 +139,7 @@ Goal:
 
 ---
 
-#  Contribution Graph
+# progress record
 
 <div align="center">
 
@@ -190,20 +190,20 @@ Goal:
 
 ---
 
-# 🌟 Open Source Journey
+#  Open Source Journey
 
 <div align="center">
 
-✨ Interested in contributing to real-world projects  
-🌱 Exploring beginner-friendly repositories  
-🚀 Learning collaboration, Git workflows & teamwork  
-💙 Participating in GSSoC & Social Summer of Code
+ Interested in contributing to real-world projects  
+ Exploring beginner-friendly repositories  
+ Learning collaboration, Git workflows & teamwork  
+ Participating in GSSoC & Social Summer of Code
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <div align="center">
 
