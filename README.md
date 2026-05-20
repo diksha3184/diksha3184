@@ -148,7 +148,37 @@ Goal:
 </div>
 
 ---
+---
 
+# 🌳 3D Contribution Calendar
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diksha3184&theme=github_dark"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diksha3184&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diksha3184&theme=github_dark"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diksha3184&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=diksha3184&theme=github_dark&utcOffset=8"/>
+
+</div>
+
+---
+
+# 🟩 Green Contribution Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diksha3184&theme=github"/>
+
+</div>
 # 🏆 GitHub Achievements
 
 <div align="center">
