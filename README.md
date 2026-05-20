@@ -82,24 +82,120 @@ Goal:
 
 ---
 
-##  Frontend & MERN
+## Frontend & MERN
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,bootstrap,tailwind"/>
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="48"/><br>
+<sub><b>React</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>
+<sub><b>Node.js</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" width="48"/><br>
+<sub><b>Express</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>
+<sub><b>MongoDB</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>
+<sub><b>Bootstrap</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>
+<sub><b>Tailwind</b></sub>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-##  Cloud • DevOps • Tools
+## Cloud • DevOps • Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,aws"/>
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br>
+<sub><b>Git</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br>
+<sub><b>GitHub</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>
+<sub><b>VS Code</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" width="48"/><br>
+<sub><b>Linux</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="48"/><br>
+<sub><b>Docker</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws" width="48"/><br>
+<sub><b>AWS</b></sub>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-##  Python Libraries
+## Python Libraries
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+<div align="center">
 
+<table>
+<tr>
+
+<td align="center">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/><br>
+<sub><b>NumPy</b></sub>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/><br>
+<sub><b>Pandas</b></sub>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/><br>
+<sub><b>Matplotlib</b></sub>
+</td>
+
+</tr>
+</table>
+
+</div>
 </div>
 
 ---
