@@ -72,19 +72,51 @@ Goal:
 
 ---
 
-#  Tech Stack
+# Tech Stack
 
 <div align="center">
 
 ## Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js"/>
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c" width="48"/><br>
+<sub><b>C</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>
+<sub><b>C++</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br>
+<sub><b>Python</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="48"/><br>
+<sub><b>HTML</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="48"/><br>
+<sub><b>CSS</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="48"/><br>
+<sub><b>JavaScript</b></sub>
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## Frontend & MERN
-
-<div align="center">
 
 <table>
 <tr>
@@ -122,13 +154,9 @@ Goal:
 </tr>
 </table>
 
-</div>
-
 ---
 
 ## Cloud • DevOps • Tools
-
-<div align="center">
 
 <table>
 <tr>
@@ -166,13 +194,9 @@ Goal:
 </tr>
 </table>
 
-</div>
-
 ---
 
 ## Python Libraries
-
-<div align="center">
 
 <table>
 <tr>
@@ -196,9 +220,6 @@ Goal:
 </table>
 
 </div>
-</div>
-
----
 
 #  Current Focus
 
