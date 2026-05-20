@@ -55,9 +55,7 @@ Interests:
   - GitHub Projects
   - Linux & Cloud
 
-Goal:
-  Become a job-ready developer
-  and contribute to impactful projects 
+
 ```
 
 </td>
