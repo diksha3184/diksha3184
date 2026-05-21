@@ -234,13 +234,13 @@ Interests:
 
 ---
 
-#  GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=diksha3184&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=diksha3184&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=diksha3184&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
@@ -251,8 +251,6 @@ Interests:
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diksha3184&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
-
----
 
 # progress record
 
