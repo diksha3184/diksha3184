@@ -260,34 +260,32 @@
 
 
 
-# 🕹️ Contribution Snake
+name: Generate Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diksha3184/diksha3184/output/pacman-contribution-graph-dark.svg">
+on:
+  schedule:
+    - cron: "0 */12 * * *"
 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diksha3184/diksha3184/output/pacman-contribution-graph.svg">
+  workflow_dispatch:
 
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diksha3184/diksha3184/output/pacman-contribution-graph.svg">
-</picture>
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+    permissions:
+      contents: write
 
----
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: diksha3184
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-  <i> Consistency creates growth </i>
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e293b,100:06b6d4"/>
-
-</div>
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
