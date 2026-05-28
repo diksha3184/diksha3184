@@ -258,7 +258,6 @@
 
 ---
 
-
 ## 🕹️ Contribution Snake
 
 <div align="center">
@@ -266,10 +265,6 @@
 <img src="https://raw.githubusercontent.com/diksha3184/diksha3184/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" width="100%"/>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
 
 <div align="center">
   <i>✨ Consistency creates growth ✨</i>
