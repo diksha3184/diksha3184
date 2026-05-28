@@ -260,7 +260,7 @@
 
 
 
-##  Contribution Graph
+## 🕹️ Pacman Contribution Graph
 
 <picture>
   <source
