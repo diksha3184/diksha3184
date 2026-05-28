@@ -263,36 +263,14 @@
 
 <div align="center">
 
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/diksha3184/diksha3184/output/pacman-contribution-graph-dark.svg"
-  />
-
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/diksha3184/diksha3184/output/pacman-contribution-graph.svg"
-  />
-
-  <img 
-    alt="Pacman Contribution Graph" 
-    src="https://raw.githubusercontent.com/diksha3184/diksha3184/output/pacman-contribution-graph-dark.svg"
-    width="100%"
-  />
-</picture>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-<h3> Building • Learning • Growing Every Day  </h3>
-
-<p>
-Open Source • MERN Stack • Cloud • DevOps • DSA
-</p>
+<img src="https://raw.githubusercontent.com/diksha3184/diksha3184/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" width="100%"/>
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ---
+
+<div align="center">
+  <i>✨ Consistency creates growth ✨</i>
+</div>
