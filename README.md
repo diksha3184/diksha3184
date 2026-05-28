@@ -218,21 +218,7 @@
 
 ---
 
-### 🛠️ Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
-</p>
-
-<p>
-  Git • GitHub • VS Code • Figma • Postman
-</p>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
 
 #   GitHub Analytics
 
@@ -265,23 +251,6 @@
 </p>
 
 [![Activity](https://github-readme-activity-graph.vercel.app/graph?username=diksha3184&theme=dracula&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=A78BFA&hide_border=true)](https://github.com/diksha3184)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-#  Current Focus
-
-<div align="center">
-
-| Learning |  Exploring |
-|---|---|
-| MERN Stack Development | Open Source Projects |
-| Cloud & DevOps Basics | Linux Foundation |
-| Git & GitHub Workflows | GSSoC Contributions |
-| DSA & Problem Solving | Beginner-Friendly Repositories |
 
 </div>
 
