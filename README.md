@@ -260,10 +260,21 @@
 
 
 
-## 🐍 Contribution Graph
+##  Contribution Graph
 
-<div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/diksha3184/diksha3184/output/pacman-contribution-graph-dark.svg"
+  >
 
-<img src="https://raw.githubusercontent.com/diksha3184/diksha3184/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/diksha3184/diksha3184/output/pacman-contribution-graph.svg"
+  >
 
-</div>
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/diksha3184/diksha3184/output/pacman-contribution-graph.svg"
+  >
+</picture>
