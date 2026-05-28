@@ -1,91 +1,92 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:1e293b,100:06b6d4&text=Diksha%20Kumawat&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Open%20Source%20Explorer%20•%20Cloud%20Learner&descAlignY=58)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,50:1e293b,100:06b6d4&text=Diksha%20Kumawat&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Open%20Source%20Explorer%20•%20Cloud%20Learner&descAlignY=58"/>
 
 # Hey, I'm Diksha Kumawat 👋
+
 ### Full Stack Developer • MERN Stack • Cloud & DevOps Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+Projects+and+Learning+Everyday+🚀;Exploring+Open+Source+💙;MERN+Stack+Developer+🌐;Python+%7C+JavaScript+%7C+Cloud+☁️" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+Projects+and+Learning+Everyday+🚀;Exploring+Open+Source+💙;MERN+Stack+Developer+🌐;Python+%7C+JavaScript+%7C+Cloud+☁️;Future+Software+Engineer+⚡" alt="Typing animation" />
 
 <p>
-  <a href="https://komarev.com/ghpvc/?username=diksha3184&label=Profile%20views&color=0e75b6&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=diksha3184&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  <a href="https://komarev.com/ghpvc/?username=diksha3184&label=Profile%20Views&color=0ea5e9&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=diksha3184&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
   </a>
 
   <a href="https://github.com/diksha3184?tab=followers">
-    <img src="https://img.shields.io/github/followers/diksha3184?logo=github&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/diksha3184?logo=github&style=for-the-badge"/>
   </a>
 
   <a href="https://github.com/diksha3184?tab=repositories">
-    <img src="https://img.shields.io/github/stars/diksha3184?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" />
+    <img src="https://img.shields.io/github/stars/diksha3184?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge"/>
   </a>
 </p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🔭 Currently building projects using **MERN Stack**
 - 🌱 Learning **Cloud, DevOps, Open Source & DSA**
 - 👯 Open to collaborating on **Frontend & Full Stack Projects**
 - 💬 Ask me about **JavaScript, React, GitHub & Web Development**
-- ⚡ Fun fact: I love turning ideas into real projects
+- ⚡ Fun fact: I love turning ideas into real-world projects
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/diksha-kumawat31/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:dikshakumawat42@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://github.com/diksha3184">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 
-### Languages
+### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" />
 </p>
 
-### Frameworks & Libraries
+### ⚛️ Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" />
 </p>
 
-### Databases & Cloud
+### ☁️ Databases & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,aws,docker" />
 </p>
 
-### Tools
+### 🛠️ Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-## 📈 GitHub Analytics
+# 📈 GitHub Analytics
 
 <div align="center">
 
@@ -119,11 +120,11 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-## 🌱 Current Focus
+# 🌱 Current Focus
 
 <div align="center">
 
@@ -136,11 +137,25 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-## 🏆 GitHub Achievements
+# 🏅 Certifications
+
+<div align="center">
+
+<img width="220" src="https://github.com/user-attachments/assets/657dd129-c3d3-4871-8d05-3567f729729e"/>
+
+<img width="220" src="https://github.com/user-attachments/assets/c6494674-9157-4273-a4c9-acfae8386ee4"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -148,11 +163,11 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-## 🕹️ Contribution Snake
+# 🕹️ Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diksha3184/diksha3184/output/pacman-contribution-graph-dark.svg">
@@ -162,7 +177,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diksha3184/diksha3184/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
@@ -176,4 +191,10 @@
 
 <div align="center">
   <i>✨ Consistency creates growth ✨</i>
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e293b,100:06b6d4"/>
+
 </div>
