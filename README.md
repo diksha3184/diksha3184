@@ -28,19 +28,19 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-- 🔭 Currently building projects using **MERN Stack**
-- 🌱 Learning **Cloud, DevOps, Open Source & DSA**
-- 👯 Open to collaborating on **Frontend & Full Stack Projects**
-- 💬 Ask me about **JavaScript, React, GitHub & Web Development**
-- ⚡ Fun fact: I love turning ideas into real-world projects
+-  Currently building projects using **MERN Stack**
+-  Learning **Cloud, DevOps, Open Source & DSA**
+-  Open to collaborating on **Frontend & Full Stack Projects**
+-  Ask me about **JavaScript, React, GitHub & Web Development**
+-  Fun fact: I love turning ideas into real-world projects
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/diksha-kumawat31/" target="_blank">
@@ -60,37 +60,185 @@
 
 ---
 
-# 🧰 Tech Stack
+## 🧰 Tech Stack
+
+<div align="center">
 
 ### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" />
-</p>
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c&theme=dark" width="55"/><br>
+<b>C</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="55"/><br>
+<b>C++</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="55"/><br>
+<b>Python</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="55"/><br>
+<b>JavaScript</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="55"/><br>
+<b>HTML</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="55"/><br>
+<b>CSS</b>
+</td>
+
+</tr>
+</table>
+
+---
 
 ### ⚛️ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" />
-</p>
 
-### ☁️ Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,aws,docker" />
-</p>
+<table>
+<tr>
 
-### 🛠️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman" />
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="55"/><br>
+<b>React</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="55"/><br>
+<b>Next.js</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="55"/><br>
+<b>Node.js</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express&theme=dark" width="55"/><br>
+<b>Express.js</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="55"/><br>
+<b>Tailwind</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="55"/><br>
+<b>Bootstrap</b>
+</td>
+
+</tr>
+</table>
+
+---
+
+### ☁️ Databases • Cloud • DevOps
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="55"/><br>
+<b>MongoDB</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="55"/><br>
+<b>Firebase</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="55"/><br>
+<b>AWS</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="55"/><br>
+<b>Docker</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="55"/><br>
+<b>Linux</b>
+</td>
+
+</tr>
+</table>
+
+---
+
+### 🛠️ Tools & Platforms
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="55"/><br>
+<b>Git</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="55"/><br>
+<b>GitHub</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="55"/><br>
+<b>VS Code</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="55"/><br>
+<b>Figma</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="55"/><br>
+<b>Postman</b>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-# 📈 GitHub Analytics
+### 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
+</p>
+
+<p>
+  Git • GitHub • VS Code • Figma • Postman
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+#   GitHub Analytics
 
 <div align="center">
 
-<h3>📊 GitHub Stats</h3>
+<h3>  GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diksha3184&theme=react" />
@@ -124,11 +272,11 @@
 
 ---
 
-# 🌱 Current Focus
+#  Current Focus
 
 <div align="center">
 
-| 🚀 Learning | 🌍 Exploring |
+| Learning |  Exploring |
 |---|---|
 | MERN Stack Development | Open Source Projects |
 | Cloud & DevOps Basics | Linux Foundation |
@@ -141,31 +289,7 @@
 
 ---
 
-# 🏅 Certifications
 
-<div align="center">
-
-<img width="220" src="https://github.com/user-attachments/assets/657dd129-c3d3-4871-8d05-3567f729729e"/>
-
-<img width="220" src="https://github.com/user-attachments/assets/c6494674-9157-4273-a4c9-acfae8386ee4"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=diksha3184&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
 
 # 🕹️ Contribution Snake
 
@@ -190,7 +314,7 @@
 ---
 
 <div align="center">
-  <i>✨ Consistency creates growth ✨</i>
+  <i> Consistency creates growth </i>
 </div>
 
 <div align="center">
