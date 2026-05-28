@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:1e293b,100:06b6d4&text=Diksha%20Kumawat&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Open%20Source%20Explorer%20•%20Cloud%20Learner&descAlignY=58)
@@ -28,19 +27,19 @@
 
 ---
 
-##  About Me
+## 🚀 About Me
 
--  Currently building projects using **MERN Stack**
-- Learning **Cloud, DevOps, Open Source & DSA**
-- Open to collaborating on **Frontend & Full Stack Projects**
-- Ask me about **JavaScript, React, GitHub & Web Development**
--  Fun fact: I love turning ideas into real projects
+- 🔭 Currently building projects using **MERN Stack**
+- 🌱 Learning **Cloud, DevOps, Open Source & DSA**
+- 👯 Open to collaborating on **Frontend & Full Stack Projects**
+- 💬 Ask me about **JavaScript, React, GitHub & Web Development**
+- ⚡ Fun fact: I love turning ideas into real projects
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
-##  Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/diksha-kumawat31/" target="_blank">
@@ -60,7 +59,7 @@
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 ### Languages
 <p>
@@ -86,11 +85,11 @@
 
 ---
 
-## GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<h3> GitHub Stats</h3>
+<h3>📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diksha3184&theme=react" />
@@ -124,11 +123,11 @@
 
 ---
 
-## Current Focus
+## 🌱 Current Focus
 
 <div align="center">
 
-| Learning | Exploring |
+| 🚀 Learning | 🌍 Exploring |
 |---|---|
 | MERN Stack Development | Open Source Projects |
 | Cloud & DevOps Basics | Linux Foundation |
@@ -141,7 +140,7 @@
 
 ---
 
-## GitHub Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -153,7 +152,7 @@
 
 ---
 
-##  Contribution Snake
+## 🕹️ Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diksha3184/diksha3184/output/pacman-contribution-graph-dark.svg">
@@ -176,7 +175,5 @@
 ---
 
 <div align="center">
-  <i> Consistency creates growth </i>
+  <i>✨ Consistency creates growth ✨</i>
 </div>
-
-```
