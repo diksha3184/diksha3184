@@ -199,15 +199,6 @@
 <b>VS Code</b>
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="55"/><br>
-<b>Figma</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="55"/><br>
-<b>Postman</b>
-</td>
 
 </tr>
 </table>
